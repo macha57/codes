@@ -21,8 +21,8 @@ int factorial(int a)
 		return -1;
 	}
 	else{
-		int i,res=1;
-		for(i=1;i<=a;i++)
+		int i, res=1;
+		for(i = 1; i <= a; i++)
 		{
 			res*=i;
 		}
