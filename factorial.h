@@ -1,4 +1,5 @@
 /*
+[THIS HEADER FILE CONTAINS THE FUNCTION NOT THE ACTUAL PROGRAM] 
 Author: <pratimsina@gmail.com>
 Version: [1.0]
 
