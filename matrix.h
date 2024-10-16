@@ -1,6 +1,17 @@
 /* 
 Author => <pratimsina@gmail.com>
  
+[THIS IS A HEADER FILE AND DOES NOT CONTAIN THE PROGRAM]
+=> Sample program:
+
+===================================
+#include "NAME_OF_HEADER_FILE.h"   
+int main()
+{
+	determinant_of_matrix();
+}
+===================================
+
 
 This small software calculates the determinant of 2x2 matrix. Feel free to manupulate with the code making it
 more efficient and even making it calculate 3x3 or higher dimensional matrix :)
